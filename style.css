@@ -48,19 +48,19 @@ transform: translateX(-40px);
 	transition: 0.5s;
 }
 .nav-links ul li:hover::after{
-	width: 100%;
+	width: 95%;
 }
 .text-box{
 width: 90%;	
 color: #fff;
 position: absolute;
-top: 50%;
+top: 60%;
 left: 50%;
 transform: translate(-50%, -50%);
 text-align: center;
 }
 .text-box h1{
-	font-size: 50px;
+	font-size: 45px;
 }
 .text-box p{
 	margin: 10px 0 40px;
